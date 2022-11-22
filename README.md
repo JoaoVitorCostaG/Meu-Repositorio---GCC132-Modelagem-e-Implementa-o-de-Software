@@ -2,8 +2,8 @@
 
 Este é o meu **primeiro repositório** no *GitHUb* e abaixo se encontra um exemplo de código. 
 
-Para quebrar a maldição, segue o famoso Olá Mundo em Python:
-`print('Olá Mundo!')`
+Para quebrar a maldição, segue o famoso Olá Mundo em Javascript:
+`console.log('Olá Mundo!')`
 
 Segue abaixo algumas tecnologias que possuo experiencia:
 1. PHP
